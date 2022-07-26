@@ -1,0 +1,7 @@
+echo "# amazing-video-recorder-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Prateektiwaricoder16/amazing-video-recorder-.git
+git push -u origin main
